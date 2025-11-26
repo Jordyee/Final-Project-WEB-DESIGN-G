@@ -65,6 +65,14 @@ Karena proyek ini berbasis *static web* (HTML/CSS/JS), Anda tidak memerlukan ins
 *   **Local Storage:** Data keranjang belanja disimpan di browser pengguna. Jika Anda membersihkan *cache/cookies* browser, keranjang akan kembali kosong.
 
 ---
-**Dibuat oleh:** Mait, Vegryo - Mamangkey, Gerard - Taya, Indri - Mangangantung, Maysa - Gerungan, Dave Jordy
-**Mata Kuliah:** Web Design - Semester 3
+**Dibuat oleh:** 
+Mait, Vegryo
+Mamangkey, Gerard 
+Taya, Indri 
+Mangangantung, Maysa 
+Gerungan, Dave Jordy
+
+**Mata Kuliah:** Web Design Paralel G - Semester 3
+**Dosen:** Najoan, Regi
+
 **Universitas Klabat**
