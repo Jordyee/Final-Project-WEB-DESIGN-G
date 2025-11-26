@@ -66,11 +66,11 @@ Karena proyek ini berbasis *static web* (HTML/CSS/JS), Anda tidak memerlukan ins
 
 ---
 **Dibuat oleh:** 
-Mait, Vegryo
-Mamangkey, Gerard 
-Taya, Indri 
-Mangangantung, Maysa 
-Gerungan, Dave Jordy
+- Mait, Vegryo
+- Mamangkey, Gerard 
+- Taya, Indri 
+- Mangangantung, Maysa 
+- Gerungan, Dave Jordy
 
 **Mata Kuliah:** Web Design Paralel G - Semester 3
 **Dosen:** Najoan, Regi
